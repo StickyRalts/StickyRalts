@@ -5,12 +5,20 @@
 - 🔭 I’m currently learning Flutter
 - 🌱 I’m from Brazil
 
-<div align="center">
+<div>
   <a href="https://github.com/StickyRalts">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=StickyRalts&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StickyRalts&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-<div style="display: inline_block><br>
-  <img align="center" alt="JJ-Dart" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="SR-Dart" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+  <img align="center" alt="SR-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+  <img align="center" alt="SR-Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/ODp69Sgyuhg6mjWmmicAnov3ScOl8Q_v-2AnXMP6MhY/https/im6.ezgif.com/tmp/ezgif-6-750e609bc5.gif?width=584&height=584"> 
+</div>
+  
+  ##
+  
+<div>
+  <a href="https://www.youtube.com/channel/UCR2UM9Sw23t6TWQ0wnt6qEg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </div>
