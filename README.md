@@ -12,5 +12,5 @@
 </div>
 
 <div style="display: inline_block><br>
-  <img align="center" alt="JJ-Dart" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="JJ-Dart" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 </div>
