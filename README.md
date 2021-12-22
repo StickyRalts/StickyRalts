@@ -14,7 +14,7 @@
   <img align="center" alt="SR-Dart" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="SR-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="SR-Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-1.discordapp.net/external/ODp69Sgyuhg6mjWmmicAnov3ScOl8Q_v-2AnXMP6MhY/https/im6.ezgif.com/tmp/ezgif-6-750e609bc5.gif?width=584&height=584"> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/eGR4IHd1fBSHGyFATX90MdLhD8V-rXFOvis-zi2Iigg/https/im6.ezgif.com/tmp/ezgif-6-b22db8275a.gif?width=584&height=584"> 
 </div>
   
   ##
