@@ -14,8 +14,7 @@
   <img align="center" alt="SR-Dart" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="SR-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="SR-Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="SR-pic" height="150" style="border-radius:100px;" src="https://media.discordapp.net/attachments/869842488779767829/925511136844070922/unknown.png
-"> 
+  <img align="right" alt="SR-pic" height="375" width="275" src="https://media.discordapp.net/attachments/869842488779767829/925511724734488626/StickyRalts.png"> 
 </div>
   
   ##
