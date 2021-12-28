@@ -14,7 +14,7 @@
   <img align="center" alt="SR-Dart" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
   <img align="center" alt="SR-HTML" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="SR-Js" height="55" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/869842488779767829/925509656728723516/pokemon_corruption__ralts_damonds_form__by_delphoxguy_ddjx9ht-fullview.png)
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/869842488779767829/925511136844070922/unknown.png
 "> 
 </div>
   
